@@ -17,6 +17,7 @@ function Header() {
         <Headeritem title="COLLECTIONS" Icon={CollectionIcon} />
         <Headeritem title="ACCOUNT" Icon={UserIcon} />
       </div>
+
       <div className="text-4xl font-style: italic font-bold">YOU-STREAM</div>
     </header>
   );
