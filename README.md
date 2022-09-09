@@ -1,4 +1,17 @@
+# YOU-STREAM
+
+A dynamic mock streaming platform utlilizing the [IMDb](https://www.themoviedb.org/) API.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+<p></p>
+
+<img alt="XL" width="70%" src="public/images/XL.png" />
+<img alt="large" width="60%" src="public/images/large.png" />
+<img alt="mobile" width="50%" src="public/images/mobile.png" />
+
+
+
 
 ## Getting Started
 
